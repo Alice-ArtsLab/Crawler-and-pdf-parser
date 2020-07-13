@@ -52,6 +52,7 @@ Repositorios de eventos:
 |anppom   | [link](http://www.anppom.com.br/congressos/index.php/) | 
 |sbcm     | [link](http://compmus.ime.usp.br/sbcm/) | 
 | ------  | ----------|
-| ABEM    | [link](http://www.abemeducacaomusical.com.br/revistas_meb/index.php/meb)|
-| MUSMIDI | |
-| ABET    | [link](http://www.abet.mus.br/#anais)|
+| ABEM    | [link](http://www.abemeducacaomusical.com.br/revistas_meb/index.php/meb) |
+| MUSMIDI | [link](http://musimid.mus.br/publicacoes/livros/) |
+| ABET    | [link](http://www.abet.mus.br/#anais) |
+| SIMCAM  | [link](https://abcogmus.org/abcm-anais-simcam.html) |
