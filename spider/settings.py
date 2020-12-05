@@ -68,7 +68,7 @@ ITEM_PIPELINES = {
     'scrapy.pipelines.files.FilesPipeline': 1
 }
 DOWNLOAD_TIMEOUT = 1200
-FILES_STORE = '/home/ceaz/spider'
+FILES_STORE = '../../output'
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
